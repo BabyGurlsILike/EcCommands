@@ -1,0 +1,2 @@
+# EcCommands
+Plugin /ec

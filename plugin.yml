@@ -1,0 +1,13 @@
+name: EcCommandsShop
+version: 1.0.0
+api: 4.0.0
+main: EnderChestCommand\EnderChestCommandMain
+    
+commands:
+  ec:
+    usage: /ec
+    description: ouvrir son enderchest
+    permission: ec.use
+permissions:
+  ec.use:
+    default: op
